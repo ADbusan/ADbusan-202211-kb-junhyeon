@@ -1,4 +1,4 @@
-package j07_메소드.j10_배열;
+package j10_배열;
 public class Array4 {
     public static int[] add(int[] array, int value) {
         int[] resultArray = new int[array.length + 1];

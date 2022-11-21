@@ -1,4 +1,4 @@
-package j07_메소드.j10_배열;
+package j10_배열;
 
 public class Array5 {
     public static int getMinNumber(int num1, int num2) {
