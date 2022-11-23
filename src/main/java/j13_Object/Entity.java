@@ -1,6 +1,9 @@
 package j13_Object;
 
 import lombok.*;
+/*
+mvn 으로 쉽게 코드 자동 사용 가능
+ */
 @NoArgsConstructor
 @AllArgsConstructor
 //@Getter
