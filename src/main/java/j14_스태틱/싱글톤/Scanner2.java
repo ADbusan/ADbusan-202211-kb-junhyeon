@@ -1,2 +1,13 @@
-package j14_스태틱.싱글톤;public class Scanner2 {
+package j14_스태틱.싱글톤;
+import java.util.Scanner;
+public class Scanner2 {
+    public void inputAge(){
+        int age = 0;
+        Scanner scanner = ScannerSingleton.getInstance().getScanner();
+//      Scanner scanner = new Scanner(System.in);
+        System.out.print("나이를 입력하세요 : ");
+        age = scanner.nextInt();
+        scanner.nextLine();
+        System.out.print("나이 : "+age);
+    }
 }
