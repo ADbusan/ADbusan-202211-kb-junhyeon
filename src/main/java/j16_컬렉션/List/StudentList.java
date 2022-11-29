@@ -11,11 +11,11 @@ public class StudentList {
 //        int a = scan.nextInt();
 
         List<Student> students = new ArrayList<Student>();
-        students.add(new Student(202211128,"이승아",28));
-        students.add(new Student(202211128,"김수현",28));
-        students.add(new Student(202211128,"문경원",28));
-        students.add(new Student(202211128,"홍지혜",28));
-        students.add(new Student(202211128,"박준현",28));
+//        students.add(new Student(202211128,"이승아",28));
+//        students.add(new Student(202211128,"김수현",28));
+//        students.add(new Student(202211128,"문경원",28));
+//        students.add(new Student(202211128,"홍지혜",28));
+//        students.add(new Student(202211128,"박준현",28));
 //        Student student2 = students.get();
 //        System.out.println(student2);
         System.out.println("==========");
